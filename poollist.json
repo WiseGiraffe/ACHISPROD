@@ -1,0 +1,30 @@
+{
+    "11293" : {
+      "name" : "DRIP",
+      "cost" : 2000,
+      "description" : "ТРЭП",
+      "image" : "images/1.jpg",
+      "mp3" : "mp3/drip.mp3"
+    },
+    "11294" : {
+      "name" : "ОТБОЙНИК",
+      "cost" : 3500,
+      "description" : "DRILL",
+      "image" : "images/2.jpg",
+      "mp3" : "mp3/otboynik.mp3"
+    },
+    "11295" : {
+      "name" : "POP",
+      "cost" : 2300,
+      "description" : "POP",
+      "image" : "images/3.jpg",
+      "mp3" : "mp3/pop.mp3"
+    },
+    "11296" : {
+        "name" : "SCHOOL",
+        "cost" : 2000,
+        "description" : "TRAP ",
+        "image" : "images/4.jpg",
+        "mp3" : "mp3/school.mp3"
+      }
+  }
